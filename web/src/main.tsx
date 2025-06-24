@@ -15,9 +15,7 @@ library.add(fas, far, fab);
 
 if (isEnvBrowser()) {
   const root = document.getElementById('root');
-
-  // https://i.imgur.com/iPTAdYV.png - Night time img
-  root!.style.backgroundImage = 'url("https://i.imgur.com/3pzRj9n.png")';
+  root!.style.backgroundImage = 'url("https://files.fivemerr.com/images/37c45a00-88f0-4642-840e-588e0901d68a.png")';
   root!.style.backgroundSize = 'cover';
   root!.style.backgroundRepeat = 'no-repeat';
   root!.style.backgroundPosition = 'center';
