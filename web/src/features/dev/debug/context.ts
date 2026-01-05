@@ -11,7 +11,7 @@ export const debugContext = () => {
           { title: 'Empty button' },
           {
             title: 'Karin Kuruma',
-            image: '',
+            image: 'https://cdn.discordapp.com/attachments/1063098499027173461/1064276343585505330/screenshot.jpg',
             arrow: true,
             colorScheme: 'blue',
             metadata: [
@@ -41,7 +41,7 @@ export const debugContext = () => {
             title: 'Example button',
             description: 'Example button description',
             icon: 'inbox',
-            image: '',
+            image: 'https://i.imgur.com/YAe7k17.jpeg',
             metadata: [{ label: 'Value 1', value: 300 }],
             disabled: true,
           },
