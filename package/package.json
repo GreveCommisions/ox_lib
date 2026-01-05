@@ -2,6 +2,7 @@
   "name": "@communityox/ox_lib",
   "author": "Overextended",
   "version": "3.32.2",
+  "packageManager": "bun@latest",
   "description": "JS/TS wrapper for ox_lib exports",
   "main": "./shared/index.js",
   "types": "./shared/index.d.ts",

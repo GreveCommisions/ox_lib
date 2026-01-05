@@ -1,6 +1,7 @@
 {
   "name": "ox_lib",
   "version": "0.1.0",
+  "packageManager": "bun@latest",
   "homepage": "web/build",
   "private": true,
   "dependencies": {
